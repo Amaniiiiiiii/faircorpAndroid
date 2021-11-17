@@ -7,8 +7,21 @@
         <entry key="..\:/androidStudio/WorkSpace/Faircorp/app/src/main/res/drawable-v24/ic_logo.xml" value="0.23489583333333333" />
         <entry key="..\:/androidStudio/WorkSpace/Faircorp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.16111111111111112" />
         <entry key="..\:/androidStudio/WorkSpace/Faircorp/app/src/main/res/drawable/ic_logo.xml" value="0.2390625" />
-        <entry key="..\:/androidStudio/WorkSpace/Faircorp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/androidStudio/WorkSpace/Faircorp/app/src/main/res/layout/activity_buding_windows.xml" value="0.23076923076923078" />
+        <entry key="..\:/androidStudio/WorkSpace/Faircorp/app/src/main/res/layout/activity_building_room.xml" value="0.22" />
+        <entry key="..\:/androidStudio/WorkSpace/Faircorp/app/src/main/res/layout/activity_building_rooms.xml" value="0.1" />
+        <entry key="..\:/androidStudio/WorkSpace/Faircorp/app/src/main/res/layout/activity_building_windows.xml" value="0.25" />
+        <entry key="..\:/androidStudio/WorkSpace/Faircorp/app/src/main/res/layout/activity_main.xml" value="0.29296875" />
+        <entry key="..\:/androidStudio/WorkSpace/Faircorp/app/src/main/res/layout/activity_room.xml" value="0.33" />
+        <entry key="..\:/androidStudio/WorkSpace/Faircorp/app/src/main/res/layout/activity_rooms_item.xml" value="0.33" />
+        <entry key="..\:/androidStudio/WorkSpace/Faircorp/app/src/main/res/layout/activity_window.xml" value="0.1" />
+        <entry key="..\:/androidStudio/WorkSpace/Faircorp/app/src/main/res/layout/activity_window_for_aroom_item.xml" value="0.2520833333333333" />
+        <entry key="..\:/androidStudio/WorkSpace/Faircorp/app/src/main/res/layout/activity_windows_for_aroom.xml" value="0.2520833333333333" />
+        <entry key="..\:/androidStudio/WorkSpace/Faircorp/app/src/main/res/layout/activity_windows_item.xml" value="0.25" />
         <entry key="..\:/androidStudio/WorkSpace/Faircorp/app/src/main/res/layout/ic_logo (1).xml" value="0.2" />
+        <entry key="..\:/androidStudio/WorkSpace/Faircorp/app/src/main/res/layout/windows_for_aroom.xml" value="0.21875" />
+        <entry key="..\:/androidStudio/WorkSpace/Faircorp/app/src/main/res/layout/windows_for_aroom_item.xml" value="0.33" />
+        <entry key="..\:/androidStudio/WorkSpace/Faircorp/app/src/main/res/menu/menu.xml" value="0.33" />
       </map>
     </option>
   </component>
